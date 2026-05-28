@@ -129,3 +129,10 @@ dmypy.json
 .pyre/
 Untitled.ipynb
 artifacts
+
+# Project-specific
+logs/
+*.log
+*.zip
+*.bkp
+.*.bkp
